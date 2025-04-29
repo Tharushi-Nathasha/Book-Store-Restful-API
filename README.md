@@ -1,5 +1,3 @@
-# Book-Store-Restful-API
-A RESTful API built for managing a book store system. It provides endpoints to create, read, update, and delete book records, handle customer interactions, and manage inventory operations efficiently.
 # 📚 Book Store RESTful API
 
 This project implements a RESTful API for a Bookstore system using Java and the JAX-RS framework (Jersey). It enables client applications to perform CRUD operations on books, authors, customers, shopping carts, and orders. The API is stateless, follows REST principles, and uses JSON as the data exchange format.
